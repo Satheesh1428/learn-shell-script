@@ -1,1 +1,1 @@
-# learn-shell-script
+Welcome to Shell scripting # learn-shell-script
