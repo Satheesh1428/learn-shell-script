@@ -10,3 +10,4 @@ List of topics
 7) exit status 
 8) EXIT status & redirectories & quotes
 9) SED editor
+10) few more are there 
